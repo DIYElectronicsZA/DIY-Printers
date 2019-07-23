@@ -1,7 +1,7 @@
 # DIYE-Printer-Archive
 DIYElectronics 3D Printer Archive https://diyelectronics.co.za
 
-The Archive of all documentation, files etc for all 3D printers sold by DIYElectronics.
+The Archive of documentation, files etc for 3D printers sold by DIYElectronics.
 
 **Links**
 
